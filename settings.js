@@ -3,7 +3,7 @@
 
 module.exports = {
     
-    port: 80, // Port to host website on
+    port: 8080, // Port to host website on
 
     params: {   // Always send this stuff to the servers
         secret: 'Wmfd2893gb7',
